@@ -71,6 +71,12 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
+    },
+    {
+      "name": "quickmind",
+      "title": "quickmind",
+      "name_zh": "开发速查",
+      "url": "https://wangchujiang.com/reference/"
     }
   ]
 }
